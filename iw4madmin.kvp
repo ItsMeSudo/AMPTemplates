@@ -15,6 +15,7 @@ App.HasWritableConsole=true
 App.RapidStartup=false
 App.RootDir=./iw4madmin/
 App.UpdateSource=None
+Meta.AppConfigId=44c34561-5f7a-492c-9fb8-b33402471951
 App.WorkingDir=
 Console.AppReadyRegex=^Now listening on$
 Console.ThrowawayMessageRegex=^(WARNING|ERROR): Shader.+$
